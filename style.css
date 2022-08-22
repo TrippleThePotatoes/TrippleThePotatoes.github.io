@@ -1,0 +1,10 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+h2 {
+  font-family:'Courier New', Courier, monospace;
+  font-size: 24px;
+  color:#f0f08e;
+  text-align:center;
+}
